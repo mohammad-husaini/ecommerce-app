@@ -18,7 +18,7 @@ This is a E-commerce App built using React. It provides a user-friendly interfac
 
 1. Start the development server: `npm start`
 2. Open the application in your browser at `http://localhost:3000`
-3. 
+
 ## Responsive Design
 
 This E-commerce App is designed to be fully responsive, providing an optimal viewing and interaction experience across a wide range of devices, including desktops, tablets, and mobile phones. The layout and components adapt dynamically to different screen sizes, ensuring that the app is usable and visually appealing on any device.
