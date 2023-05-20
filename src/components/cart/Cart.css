@@ -1,0 +1,37 @@
+.cart-container {
+  max-width: 500px;
+}
+
+.cart-item {
+  border: 1px solid #cdcdcd;
+  text-align: left;
+  border-radius: 15px;
+  padding: 10px;
+  width: -webkit-fill-available;
+  margin-bottom: 10px;
+}
+
+.item-expectedDelivery {
+  margin-left: 10px;
+}
+
+.cart-container button {
+  margin-top: 10px;
+}
+.remove-btn {
+  color: white;
+  background: #a02323;
+  border-radius: 5px;
+  width: 150px;
+  height: 35px;
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  margin-bottom: 10px;
+}
+
+.remove-btn:active {
+  background: white;
+  color: initial;
+  border: 1px solid grey;
+}

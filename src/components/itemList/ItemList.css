@@ -1,0 +1,8 @@
+.item-list {
+  column-count: 2;
+}
+@media screen and (min-width: 720px) {
+  .item-list {
+    column-count: 4;
+  }
+}
